@@ -1,4 +1,4 @@
-## Put comments here that give an overall description of what your
+## My overall description of what my
 ## functions do
 
 ## Write a short comment describing this function
